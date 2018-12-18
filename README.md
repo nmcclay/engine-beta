@@ -1,4 +1,4 @@
-engine-alpha
+engine-beta
 ==============================================================================
 
 [Short description of the addon.]
@@ -7,7 +7,7 @@ Installation
 ------------------------------------------------------------------------------
 
 ```
-ember install engine-alpha
+ember install engine-beta
 ```
 
 
