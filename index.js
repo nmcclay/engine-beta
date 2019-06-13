@@ -8,6 +8,8 @@ module.exports = EngineAddon.extend({
     enabled: true
   }),
 
+  namespace: 'beta',
+
   isDevelopingAddon() {
     return true;
   }
